@@ -11,8 +11,7 @@
 |-------------------|------------|
 | Windows Manager   | [hyprland](https://github.com/hyprwm/Hyprland)  |
 | Terminal          | [kitty](https://github.com/kovidgoyal/kitty)        |
-| Shell             | [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) / [theme](https://github.com/romkatv/powerlevel10k) |
-| File Manager      | [nautilus]((https://github.com/GNOME/nautilus)     |
+| File Manager      | [nautilus](https://github.com/GNOME/nautilus)     |
 | Browser           | [firefox](https://github.com/topics/firefox-browser)|
 | Bar               | [waybar](https://github.com/Alexays/Waybar)      |
 | Launcher          | [rofi](https://github.com/davatorium/rofi)          |
