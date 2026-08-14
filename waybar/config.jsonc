@@ -12,7 +12,7 @@
     "modules-right": ["bluetooth", "network", "battery", "custom/power"],
 
     "hyprland/workspaces": {
-        "format": "{icon}",
+    	"format": "{icon}",
         "format-icons": {
             "active": "",
             "default": ""
@@ -27,24 +27,24 @@
     "bluetooth": {
         "format": "{status}",
         "format-disabled":"󰂲",
-	"format-connected": "{num_connections}",
-	"tooltip-format": "{controller_alias}\t{controller_address}",
-	"tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
-	"tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
+		"format-connected": "{num_connections}",
+		"tooltip-format": "{controller_alias}\t{controller_address}",
+		"tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
+		"tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
         "on-click": "blueman-manager"
     },
 
     "network": {
         "format-wifi": " {essid}",
-	"format-alt":"{ipaddr}/{cidr},
-	"format-alt-click": "click-left",
+		"format-alt":"{ipaddr}/{cidr}",
+		"format-alt-click": "click-left",
         "format-disconnected": "⚠ déconnecté"
     },
 
     "battery": {
         "format": "{icon} {capacity}%",
         "format-icons": ["", "", "", "", ""],
-	"interval": 5,
+		"interval": 5,
     },
 
     "custom/power": {
