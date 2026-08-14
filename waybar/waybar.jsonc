@@ -5,7 +5,7 @@
     "margin-top": 8,
     "margin-left": 12,
     "margin-right": 12,
-    "spacing": 8,
+    "spacing": 14,
 
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["clock"],
@@ -42,6 +42,6 @@
 
     "custom/power": {
         "format": "⏻",
-        "on-click": "eww open power-menu"
+        "on-click": "systemctl poweroff"
     }
 }
