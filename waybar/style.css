@@ -7,7 +7,7 @@ window#waybar {
     background: transparent;
 }
 
-#workspaces, #clock, #pulseaudio, #network, #battery, #custom-power {
+#workspaces, #clock, #bluetooth, #network, #battery, #custom-power {
     background: rgba(30, 20, 40, 0.75);
     border-radius: 20px;
     padding: 5px 16px;
