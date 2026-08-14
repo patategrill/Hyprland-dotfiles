@@ -10,13 +10,13 @@ window#waybar {
 #workspaces, #clock, #pulseaudio, #network, #battery, #custom-power {
     background: rgba(30, 20, 40, 0.75);
     border-radius: 20px;
-    padding: 4px 14px;
-    margin: 0 2px;
+    padding: 5px 16px;
+    margin: 0 6px;
     color: #e5d4ff;
 }
 
 #workspaces button {
-    padding: 0 6px;
+    padding: 0 4px;
     color: #a78bfa;
 }
 
