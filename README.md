@@ -1,4 +1,4 @@
-### Here is my dotfiles for Arch Linux with Hyprland
+### Here is my dotfiles for Hyprland on Linux (Arch for me)
 
 #### Tool i use on my Hyprland config : 
 
@@ -18,5 +18,6 @@
 | Lockscreen        | [hyprlock](https://github.com/hyprwm/hyprlock)  |
 | Dock              | [nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) |
 
+In my config, i use .conf format but with hyprland version 0.57, that format is no longer supported so i'll have to switch to .lua format
 
 <img src="Dotfile-result.png"/>
