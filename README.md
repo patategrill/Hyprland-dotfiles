@@ -1,5 +1,7 @@
 ### Here is my dotfiles for Hyprland on Linux (Arch for me)
 
+<img src="Dotfile-result.png"/>
+
 #### Tool i use on my Hyprland config : 
 
 [Hyprland](https://github.com/patategrill/Arch-dotfiles/tree/main/hypr)  
@@ -19,8 +21,6 @@
 | Dock              | [nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) |
 
 In my config, i use .conf format but with hyprland version 0.57, that format is no longer supported so i'll have to switch to .lua format
-
-<img src="Dotfile-result.png"/>
 
 #### config files must be in :  
 
