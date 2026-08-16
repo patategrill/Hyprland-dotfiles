@@ -21,3 +21,10 @@
 In my config, i use .conf format but with hyprland version 0.57, that format is no longer supported so i'll have to switch to .lua format
 
 <img src="Dotfile-result.png"/>
+
+#### config files must be in :  
+
+- Hyprland and hypridle : `~/.config/hypr/`  
+- Kitty : `~/.config/kitty/`  
+- Waybar : `~/.config/waybar/`  
+- nwg-dock-hyprland : `~/.config/nwg-dock-hyprland/`  
